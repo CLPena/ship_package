@@ -1,0 +1,20 @@
+1 Gather supplies
+  1.1 Tape
+  1.2 Peanuts
+  1.3 Items to ship
+  1.4 Flat rate box
+2 Prepare box
+  2.1 Put items in box
+  2.2 Fill remaining space with peanuts
+  2.3 Tape shut
+    2.3.1 Tape edges
+    2.3.2 Cut tape
+  2.4 Label box
+    2.4.1 Write mail to address
+    2.4.2 Write return address
+3 Drop off package
+  3.1 Locate drop box
+    3.1.1 Google search drop box near home
+  3.2 Walk or drive to drop box
+  3.3 Place package in drop box
+  
